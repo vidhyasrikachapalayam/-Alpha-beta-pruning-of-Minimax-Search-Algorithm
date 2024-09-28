@@ -26,6 +26,7 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 
 
 <h2>Program:</h2>
+
 ```
 
 import time
